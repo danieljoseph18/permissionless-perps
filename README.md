@@ -4,7 +4,7 @@
 
 ---
 
-These smart contracts are designed to introduce a new type of perpetual futures market, where anyone can participate in the network as a keeper, and pricing can be supplied for almost any asset for which quotes can be fetched through CoinMarketCap, or other popular pricing services.
+These smart contracts are designed to introduce a new type of perpetual futures market, where anyone can participate in the network as a keeper, and pricing can be supplied for almost any asset.
 
 The overall architecture works as follows:
 
