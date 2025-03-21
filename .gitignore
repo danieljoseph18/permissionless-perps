@@ -1,0 +1,19 @@
+# Compiler files
+cache/
+out/
+lib/
+.github/
+node_modules/
+broadcast/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+.env.enc
+
+notes.md
+report.md
+/test/Tests.md
+remappings.json

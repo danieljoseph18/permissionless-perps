@@ -1,0 +1,22 @@
+{
+  "name": "v2-contracts",
+  "version": "1.0.0",
+  "description": "PERPS:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/env-enc": "^1.0.5",
+    "@chainlink/functions-toolkit": "^0.2.7",
+    "@pythnetwork/pyth-sdk-solidity": "^4.0.0",
+    "ethers": "^5.7.2"
+  }
+}
